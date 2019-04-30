@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b072d5542a3213b40bc68e27d76776dc
+timeCreated: 1505098615
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Napo
+  fontNames:
+  - Napo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e803a50d866b4f4eb00f321f03bcbad, type: 3}
+  - {fileID: 12800000, guid: 0f5d57f3d711d2b44a98bfd33bce84c0, type: 3}
+  - {fileID: 12800000, guid: 478b8aea97e70b049be0281a9ef2124c, type: 3}
+  - {fileID: 12800000, guid: 2864a32d780093246a01a0bed7117071, type: 3}
+  - {fileID: 12800000, guid: 8454ae9f039c265489260edfd04a2987, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

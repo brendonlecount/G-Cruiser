@@ -1,0 +1,25 @@
+Controls
+
+W - Accelerate
+S - Decelerate
+Mouse Horizontal - Lean to Steer
+Mouse Vertical - Up/Down Mouselook (non-VR only)
+M - Pause Music
+. - Next Song
+, - Previous Song
+Escape - Pause Menu
+
+
+Objective
+
+Pass through all of the checkpoints in as little time as possible. Checkpoints can be cleared in any order, but there is an optimal route that should be apparent. Timing starts as soon as you pass through your first checkpoint. Money can be used to purchase upgrades, and is awarded based on how quickly you complete the checkpoints. The heads-up-display shows the number of checkpoints remaining on the left, and your time on the right. Races can be restarted at any time from the pause menu.
+
+
+Upgrades
+
+You will start with $50,000 and a level 1 force field, g-suit, and thruster. $50,000 is enough to purchase one level 3 upgrade, or 2 level 2 upgrades. Upgrades can be purchased at the start menu between races (click "Upgrades"). There are three categories available. Force fields effect aerodynamics, improving top speed and, in some cases, breaking. G-suits allow for tighter turns. Thrusters improve acceleration, deceleration, and top speed.
+
+
+Night Mode
+
+You can race during the day or at night, toggled at the start menu under Options/Gameplay. You will receive an environment bonus when racing at night.

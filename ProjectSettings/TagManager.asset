@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - Body
+  - Audio Source
+  - Checkpoint Base
+  - Map
+  - HUD
+  - Blackout Menu
+  - Pause Menu
+  - Win Menu
+  - Player Upgrades
+  - Preview Camera
+  - Preview Camera FS
+  - Ghost
+  - Record Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cushion
+  - Screen
+  - Checkpoint
+  - HUD
+  - Pause Menu
+  - Sky
+  - Force Field
+  - Pause Menu Plane
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6a274face5916943a15412f26665e76
+timeCreated: 1505065745
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blackboard Rovers
+  fontNames:
+  - Blackboard Rovers
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

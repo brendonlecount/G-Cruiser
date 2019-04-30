@@ -1,0 +1,88 @@
+G-Cruiser
+
+Designer - Brendon LeCount
+
+Programmer - Brendon LeCount
+
+Sound Design - Brendon LeCount
+
+Level Design - Brendon LeCount
+
+
+Music Assets
+
+To Eris - To Eris
+
+Darkaround - To Eris
+
+Regards from Mars - To Eris
+
+Almost There - To Eris
+
+Alone - To Eris
+
+Star's Path - To Eris
+
+Lights - To Eris
+
+https://creativecommons.org/licenses/by/4.0/
+
+Something Elated - Broke For Free
+
+Night Owl - Broke For Free
+
+As Colorful As Ever - Broke For Free
+
+https://creativecommons.org/licenses/by/3.0/
+
+Enthusiast - Tours
+
+https://creativecommons.org/licenses/by/3.0/
+
+
+Sound Assets
+
+Electrocute - aust-paul (CC0)
+
+Zap-2 - fons (CC0)
+
+low-frequency-humming-noise - bass95 (CC0)
+
+30-60hzhum - knova (ANC)
+
+thrusters-loop - djt4nn3r (CC0)
+
+strong-wind - rensvdmeijs (CC0)
+
+
+Models and Animations
+
+Extreme Sci-Fi LITE - Aquarius Max 
+
+FGC Male Brad Lite - Freedom's Gate
+
+Rocks and Boulders 2 - Manufactura K4
+
+
+Materials and Textures
+
+Milky Way Skybox - Adam Bielecki
+
+Wispy Skybox - Mundus Limited
+
+Snow0163 - Textures.com
+
+Snow0193 - Textures.com
+
+Various0182 - Textures.com
+
+TexturesCom_Grass0130 - Textures.com
+
+
+Fonts
+
+Blackboard - Chequered Ink
+
+Leon Leon - Zetafonts
+
+SF Digital Readout - ShyFoundry Fonts

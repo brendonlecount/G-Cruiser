@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6a9aff99222f036429654e7cd93acee7
+timeCreated: 1505098615
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Leon
+  fontNames:
+  - Leon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62ed13e08fcf2e04cab37b255f473dc8, type: 3}
+  - {fileID: 12800000, guid: 51423de7d09c54842b0ddbd82fd5abc1, type: 3}
+  - {fileID: 12800000, guid: 0db2309c45afd5f4a923e35b5afa8f03, type: 3}
+  - {fileID: 12800000, guid: 0b8c09cc8aad34a4da8ac20414f6f7cd, type: 3}
+  - {fileID: 12800000, guid: 250f147fa13c70441b4aaa2438abf696, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
